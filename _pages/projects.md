@@ -1,5 +1,5 @@
 ---
-title: "Posts by Projects"
+title: "My Projects"
 permalink: /projects/
 layout: tags
 author_profile: true
@@ -22,8 +22,8 @@ Stawisha is a comprehensive web-based platform designed to empower farmers by st
 - TUTORIAL SECTION
 - ONLINE STORE
 
-**Links:**  
-🔗 [GitHub Repository](https://github.com/your-username/project1)  
-🌐 [Live Demo](https://project1-demo.com)
+# **Links:**  
+#🔗 [GitHub Repository](https://github.com/your-username/project1)  
+#🌐 [Live Demo](https://project1-demo.com)
 
 ---
