@@ -31,9 +31,14 @@ Welcome to my **Labs & Modules** showcase! This page highlights the hands-on lab
 
 ## 🔐 Cybersecurity
 
-### 🧪 Lab: OWASP Top 10 Hands-On
-- **Platform**: DVWA / Juice Shop
-- **Description**: Practiced exploiting common vulnerabilities such as XSS, SQLi, and CSRF.
-- **Write-up**: [Read Report](https://github.com/yourusername/cyber-labs/blob/main/OWASP-top10.md)
+### 🧪 Module: Linux Fundamentals
+- **Platform**: HackTheBox
+- **Description**: Practiced Navigating the Linux operating system, Working with files and directories, Linux administration, Service management, and Permissions management.
+- **sharable link**: [Read Report](https://academy.hackthebox.com/achievement/1916449/18)
+
+### 🧪 Module: Windows Fundamentals
+- **Platform**: HackTheBox
+- **Description**: Practiced Windows Task Manager, Interacting with the operating system, Windows security, The Microsoft Management Console (MMC), Windows Subsystem for Linux (WSL)
+- **sharable link**: [Read Report](https://academy.hackthebox.com/achievement/1916449/49)
 
 ---
