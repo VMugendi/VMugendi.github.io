@@ -1,7 +1,7 @@
 ---
 title: "Labs & Modules"
 layout: categories
-permalink: /categories/
+permalink: /labs-modules/
 author_profile: true
 ---
 # 🧪 Labs & Modules Showcase
