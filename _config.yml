@@ -80,9 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/VMugendi"
-    - label: "Email"
+    - label: "Email: vikmugendi06@gmail.com"
       icon: "fab fa-fw fa-email"
-      url: "vikmugendi06@gmail.com"
+     # url: "vikmugendi06@gmail.com"
 
 defaults:
   # _posts
