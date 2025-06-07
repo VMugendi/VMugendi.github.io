@@ -22,7 +22,7 @@ Stawisha is a comprehensive web-based platform designed to empower farmers by st
 - TUTORIAL SECTION
 - ONLINE STORE
 
-# **Links:**  
+**Links:**  
 #🔗 [GitHub Repository](https://github.com/your-username/project1)  
 #🌐 [Live Demo](https://project1-demo.com)
 
