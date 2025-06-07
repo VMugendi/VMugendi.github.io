@@ -3,8 +3,8 @@ main:
     url: /resume/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Labs & Modules"
+    url: /labs-modules/
   - title: "Projects"
     url: /projects/
   - title: "About"
