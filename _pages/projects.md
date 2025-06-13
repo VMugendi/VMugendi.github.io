@@ -1,7 +1,7 @@
 ---
 title: "My Projects"
 permalink: /projects/
-layout: tags
+layout: single
 author_profile: true
 ---
 # 🚀 My Projects
