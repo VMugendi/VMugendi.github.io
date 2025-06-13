@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-## Summary
+## CV Summary
 
 I am a result-driven professional with aspiring progressive career. I am self- driven, ambitious, innovative, analytical, a fast learner, with a firm commitment to integrity and a track record of getting along well with people from all walks of life. I possess a great desire and drive to prosper in all work that I venture into. I desire to work within a challenging and rewarding environment, which will give me an opportunity to utilize my acquired skills, apply my academic knowledge that leads to both personal and organizational growth.
 
