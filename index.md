@@ -5,15 +5,6 @@
 layout: single
 author_profile: true
 ---
----
-title: "Curriculum Vitae"
-layout: single
-permalink: /resume/Add commentMore actions
-author_profile: true
-toc: true
-toc_label: "CV Contents"
-classes: wide
----
 
 ## Summary
 
