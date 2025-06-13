@@ -1,6 +1,6 @@
 ---
 title: "Labs & Modules"
-layout: categories
+layout: single
 permalink: /labs-modules/
 author_profile: true
 ---
